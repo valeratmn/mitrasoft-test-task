@@ -10,6 +10,6 @@ React-Bootstrap,
 React-Helmet,
 Framer motion.
 
-### `Ссылка на тестовое заданиие`
+### `npm start`
 
 [https://drive.google.com/file/d/1gFIARMMfpCjw4hL6nXVsJuujeNWk8IoI/view?usp=share_link] (Google Drive)
