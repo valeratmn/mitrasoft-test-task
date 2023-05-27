@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/valeratmn/mitrasoft-test-task/static/css/main.c2cab247.css",
+    "main.js": "/valeratmn/mitrasoft-test-task/static/js/main.e97272ab.js",
+    "static/media/avatar.png": "/valeratmn/mitrasoft-test-task/static/media/avatar.5444daa43591d4d725bb.png",
+    "index.html": "/valeratmn/mitrasoft-test-task/index.html",
+    "main.c2cab247.css.map": "/valeratmn/mitrasoft-test-task/static/css/main.c2cab247.css.map",
+    "main.e97272ab.js.map": "/valeratmn/mitrasoft-test-task/static/js/main.e97272ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.e97272ab.js"
+  ]
+}
